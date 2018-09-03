@@ -11,8 +11,10 @@
 .hd_con1{
     display: inline-flex;
     margin: 5 5 5 0;
-    
 }
 .hd_con_title{
     font-weight: 600;
+}
+.hd_con_lable{
+margin-left: 5px;
 }

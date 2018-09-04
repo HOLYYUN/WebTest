@@ -1,0 +1,99 @@
+.test{
+    width: 100%;
+    height: 100px;
+}
+.one{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 30%;
+    background-color: green;
+}
+.two{
+    height: 50%;
+    color: white;
+    text-align: center;
+    float: right;
+    width: 70%;
+    background-color: red;
+}
+.three{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 200px;
+    background-color: green;
+}
+.four{
+    height: 50%;
+    color: white;
+    text-align: center;
+    width: auto;
+    background-color: red;
+}
+.five{
+    height: 50%;
+    color: white;
+    text-align: center;
+    float: left;
+    width: calc(100% - 200px);
+    background-color: red;
+}
+.six{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: right;
+    width: 200px;
+    background-color: green;
+}
+.seven{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 200px;
+    background-color: green;
+}
+.eight{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: calc(100% - 400px);
+    background-color: yellow;
+}
+.nine{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: right;
+    width: 200px;
+    background-color: green;
+}
+.ten{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 200px;
+    background-color: green;
+}
+.tenone{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: left;
+    width: 200px;
+    background-color: yellow;
+}
+.tentwo{
+    height: 50%;
+    text-align: center;
+    color: white;
+    float: right;
+    width: calc(100% - 400px);
+    background-color: green;
+}
